@@ -6,8 +6,8 @@
 
 Spark streaming 处理过程：
 
-![Process](https://github.com/SeanCsc/Spark-Spreaming/blob/master/Other/spark-stream.jpg)
-![pro](https://github.com/SeanCsc/Spark-Spreaming/blob/master/Other/stream process.jpg)
+![Process](https://github.com/SeanCsc/Spark-Spreaming/blob/master/Other/spark-stream.png)
+![pro](https://github.com/SeanCsc/Spark-Spreaming/blob/master/Other/stream%20process.png)
 
 ## Spark Streaming编程模型
 
